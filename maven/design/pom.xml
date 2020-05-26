@@ -9,18 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>authentication</artifactId>
-    <name>authentication</name>
+    <artifactId>design</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework.security</groupId>
-            <artifactId>spring-security-test</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-security</artifactId>
-        </dependency>
-    </dependencies>
+    <name>design</name>
+    <packaging>jar</packaging>
 
 </project>
